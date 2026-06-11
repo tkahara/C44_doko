@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>どこつぶ</title>
+<title>どこつぶ-</title>
 </head>
 <body>
 <h1>どこつぶへようこそ</h1>
