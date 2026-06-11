@@ -1,6 +1,9 @@
+//山畑さん残り勉の覚悟　by山口
+
 package servlet;
 
 import java.io.IOException;
+
 import jakarta.servlet.RequestDispatcher;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
