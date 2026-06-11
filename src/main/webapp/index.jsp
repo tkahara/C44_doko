@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>どこつぶ-1</title>
+<title>どこつぶ-11</title>
 </head>
 <body>
 <h1>どこつぶへようこそ</h1>
